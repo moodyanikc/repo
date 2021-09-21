@@ -169,3 +169,5 @@ https://developer.vantiv.com/external-link.jspa?url=https%3A%2F%2Fapkmomo.co
 https://www.flashback.org/leave.php?u=https%3A%2F%2Fapkmomo.co
 https://1gr.cz/log/redir.aspx?r=rajce_like&url=https%3A%2F%2Fapkmomo.co
 https://www.similartech.com/websites/apkmomo.co
+
+https://clubs.london.edu/click?r=http%3A%2F%2Fapkmomo.co%2F
